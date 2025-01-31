@@ -1,3 +1,5 @@
+
+<img align="right" alt="coding gif" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 # 👋Hi, I'm Okyanus!
 <br>👷🏻‍♂️ Geophysics Engineering graduate from Istanbul University<br>💻 Curious about frontend & backend development<br>🎨 Improving my skills in frontend development<br>🚀 Exploring the world of software development step by step!<br>🌱 #learninginpublic
 
