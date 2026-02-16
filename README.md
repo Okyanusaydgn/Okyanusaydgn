@@ -4,8 +4,14 @@
 </div>
 <br>
 
-# 👋Hi, I'm Okyanus!
-<br>👷🏻‍♂️ Geophysics Engineering graduate from Istanbul University<br>💻 Curious about frontend & backend development<br>🎨 Improving my skills in frontend development<br>🚀 Exploring the world of software development step by step!<br>🌱 #learninginpublic
+# 👋 Hi, I'm Okyanus!
+
+<br>📊 Passionate about Data Analytics and continuous learning.
+<br>💻 Currently focusing on SQL, Excel and Power BI.
+<br>🧩 Background in front-end development and coding.
+<br>🚀 Building real projects and sharing my learning journey.
+<br>🌱 #learninginpublic
+
 
 
 ## 🌐 Socials:
